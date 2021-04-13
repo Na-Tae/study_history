@@ -1,4 +1,4 @@
-# 개발공부 히스토리
+# study history
 
 [1일차](./history/20210413.md)   
 
