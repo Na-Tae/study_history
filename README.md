@@ -1,6 +1,3 @@
-# 개발공부 히스토리
+# study history
 
 [3일차](./history/20210414.md)         
-      
-
- 
