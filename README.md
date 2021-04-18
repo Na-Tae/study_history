@@ -8,5 +8,5 @@
 
 [6일차](./history/20210417.md)
 
-[7일차](./history/20210419.md),(./hisotry/algorithm20210419.md)
+[7일차](./history/20210419.md), (./hisotry/algorithm20210419.md)
 
