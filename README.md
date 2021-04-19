@@ -8,5 +8,11 @@
 
 [6일차](./history/20210417.md)
 
-[7일차](./history/20210419.md), (./hisotry/algorithm20210419.md)
+[7일차](./history/20210419.md)
+
+[8일차](./history/20210420.md)
+
+# 알고리즘
+
+[0000문제](../algorithm/algorithm0001.md)
 
