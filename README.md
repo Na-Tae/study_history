@@ -12,7 +12,7 @@
 
 [8일차](./history/20210420.md)
 
-# 알고리즘
+# algorithm
 
 [0001문제](./algorithm/algorithm0001.md)
 
