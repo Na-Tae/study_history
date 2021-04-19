@@ -14,5 +14,5 @@
 
 # 알고리즘
 
-[0000문제](../algorithm/algorithm0001.md)
+[0001문제](../algorithm/algorithm0001.md)
 
