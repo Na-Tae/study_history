@@ -14,5 +14,5 @@
 
 # algorithm
 
-[0001문제](./algorithm/algorithm0001.md)
+[0001문제](./algorithm/구름_모양찍기.md)
 
