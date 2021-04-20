@@ -14,5 +14,5 @@
 
 # algorithm
 
-[0001문제(모양찍기)](./algorithm/구름LEVEL_모양찍기.md)
+[0001문제(모양찍기)](./algorithm/구름_모양찍기.md)
 
