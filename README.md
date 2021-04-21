@@ -12,6 +12,9 @@
 
 [8일차](./history/20210420.md)
 
+[9일차](./history/20210421.md)
+
+
 # algorithm
 
 [0001문제(모양찍기)](./algorithm/구름_모양찍기.md)
