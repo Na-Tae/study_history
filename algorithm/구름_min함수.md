@@ -1,13 +1,8 @@
-# <알고리즘 문제풀이 기본 문법>
+# <기본 문법 문제풀이>
 
 ![algorithm0002](../image/algorithm0002.png)
 
 ```
-const readline = require("readline");
-const rl = readline.createInterface({
-	input: process.stdin,
-	output: process.stdout
-});
 
 rl.on("line", function(line) {
 	var a = Number(line.split(' ')[0]); 
