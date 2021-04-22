@@ -2,6 +2,7 @@
 
 ![algorithm0002](../image/algorithm0002.png)
 
+풀이)
 ```
 
 rl.on("line", function(line) {
