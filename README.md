@@ -14,7 +14,7 @@
 
 [9일차](./history/20210421.md)
 
-[10일차](.history/20210422.md)
+[10일차](./history/20210422.md)
 
 
 # algorithm
