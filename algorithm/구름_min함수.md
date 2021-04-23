@@ -1,6 +1,6 @@
 # <기본 문법 문제풀이>
 
-![algorithm0002](../algorithm_image/algorithm0002.png)
+![구름_min함수](../algorithm_image/구름_min함수.png)
 
 
 풀이)
