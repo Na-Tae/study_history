@@ -1,6 +1,6 @@
 # <기본 문법 문제풀이>
 
-![algorithm0002](/users/natae/study/image/algorithm0002.png)
+![algorithm0002](./algorithm_image.algorithm0002.png)
 
 풀이)
 ```
