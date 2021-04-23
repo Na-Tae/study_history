@@ -1,11 +1,14 @@
 # <기본 문법 문제풀이>
 
-![algorithm0002](../algorithm_image.algorithm0002.png)
+![algorithm0002](../algorithm_image/algorithm0002.png)
+
 
 풀이)
 ```
 
 rl.on("line", function(line) {
+
+	
 	var a = Number(line.split(' ')[0]); 
 	var b = Number(line.split(' ')[1]);
 		if (a > b) {
@@ -20,6 +23,7 @@ rl.on("line", function(line) {
 }).on("close", function() {
 	process.exit();
 });
+
 ```
 
 
