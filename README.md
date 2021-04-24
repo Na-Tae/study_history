@@ -1,5 +1,9 @@
 # study history
 
+[1일차](./history/20210412.md)
+
+[2일차](.history/20210413.md)
+
 [3일차](./history/20210414.md)         
 
 [4일차](./history/20210415.md)
@@ -17,6 +21,10 @@
 [10일차](./history/20210422.md)
 
 [11일차](./history/20210423.md)
+
+[12일차](./history/20210424.md)
+
+
 
 
 # algorithm
