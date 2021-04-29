@@ -32,6 +32,8 @@
 
 [15일차 - HTML](./history/20210428.md)
 
+[16일차 - CSS](./history.20210429.md)
+
 
 # algorithm
 
