@@ -34,6 +34,9 @@
 
 [16일차 - CSS](./history/20210429.md)
 
+[17일차 - 웹페이지제작](./history/20210430.md)
+
+
 
 # algorithm
 
